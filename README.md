@@ -18,9 +18,6 @@ A modern, responsive search interface that fetches real-time data from the Wikip
 * **Dynamic UX:** Real-time loading spinner and "Enter to Search" functionality.
 * **Performance:** Optimized for speed and minimal API overhead.
 
-## 📸 Preview
-![Wikipedia Search Engine Preview](https://nkb-backend-otg-media-static.s3.ap-south-1.amazonaws.com/ccbp-dynamic-webapps/wiki-logo-img.png)
-
 ## 🏗️ How to Run Locally
 1. Clone the repo: `git clone https://github.com/YOUR_GITHUB_USERNAME/wikipedia-search-engine.git`
 2. Open `index.html` in your browser.
