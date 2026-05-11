@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    background-color: #f8f9fa;
+}
+
+.main-container {
+    font-family: "Roboto", sans-serif;
+}
+
+.wiki-search-header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #d5cdcd;
+    padding: 40px 20px;
+    margin-bottom: 40px;
+}
+
+.wiki-logo {
+    margin-bottom: 25px;
+    width: 150px;
+}
+
+.search-input {
+    max-width: 600px;
+    border-radius: 24px;
+    padding: 12px 25px;
+    border: 1px solid #dfe1e5;
+    font-size: 16px;
+    outline: none;
+    box-shadow: 0 1px 6px rgba(32,33,36,0.28);
+}
+
+.search-results {
+    max-width: 800px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.result-item {
+    margin-bottom: 30px;
+}
+
+.result-title {
+    font-size: 20px;
+    color: #1a0dab;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.result-title:hover {
+    text-decoration: underline;
+}
+
+.result-url {
+    color: #006621;
+    font-size: 14px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.link-description {
+    font-size: 14px;
+    color: #4d5156;
+    line-height: 1.5;
+}
